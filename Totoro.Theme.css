@@ -5,7 +5,7 @@
 --background-image-blur: 0px;
 --background-image-size: cover;
 --background-image-position: center;
---popout-modal-image: url('https://i.imgur.com/JXlLwox.jpg');
+--popout-modal-image: url('https://cdn.discordapp.com/attachments/837785846022668288/1090028635798376498/totoro_2.jpg');
 --popout-modal-blur: 0px;
 --popout-modal-size: cover;
 --popout-modal-position: center;
@@ -17,8 +17,8 @@
 --middle-brightness: 0.3;
 --right-brightness: 0;
 --popout-modal-brightness: 0.4;
---gradient-primary: 255,61,135;
---gradient-secondary: 255,128,128;
+--gradient-primary: 173,243,253;
+--gradient-secondary: 55,187,251;
 --gradient-direction: 155deg;
 --tint-colour: 255,51,159;
 --tint-brightness: 0;
